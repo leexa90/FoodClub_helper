@@ -1,4 +1,4 @@
-
+# link (click link, then cntr + F9 on loaded page, you can ignore warnings)
 https://colab.research.google.com/github/leexa90/FoodClub_helper/blob/master/FoodClub_Bets.ipynb
 
 This is high risk, high reward style meant to increase long term profit. Expected long term profit is 1.95, which is about 15% higher than typical other players like boochi_target(1.83). Expected means long-term behaviour
